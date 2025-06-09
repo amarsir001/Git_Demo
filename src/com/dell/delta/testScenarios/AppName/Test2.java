@@ -6,9 +6,8 @@ public class Test2 {
 
 	@Test
 	public void m1()
-	
 	{
-		System.out.println("PawanKUmar");
+		System.out.println("Bineeta");
 	}
 	
 
